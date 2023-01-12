@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-ruffle",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Ruffle for Hexo",
   "main": "index.js",
   "scripts": {
